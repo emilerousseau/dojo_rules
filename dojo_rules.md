@@ -6,3 +6,6 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
+* Always wear Code School approved aerobic headband
+* Clean up anything you spill
+* Mankind is born C++...
